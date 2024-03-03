@@ -1,0 +1,6 @@
+Frutas
+Verduras
+Carnes
+Lácteos
+Bebidas
+Panadería
